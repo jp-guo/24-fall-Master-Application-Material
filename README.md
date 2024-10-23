@@ -10,7 +10,7 @@ CMU-MIIS|  rej   |https://admissions.scs.cmu.edu/portal/apply_gr|Nov. 30th|100+|
 CMU-MSCS|  rej   |https://applygrad.cs.cmu.edu/apply/|Nov. 30th|100+|yes
 Stanford-MSCS|  rej   |https://gradadmissions.stanford.edu/apply/apply-now|Dec. 5th|100+|no
 Harvard-DS|  rej   |https://apply.gsas.harvard.edu/apply/|Dec. 1st|yes|yes
-UIUC-MSCS|  rej   |https://choose.illinois.edu/apply/|Dec. 15th|100+, ideally 22+ for spoken|no
+UIUC-MSCS|  ad   |https://choose.illinois.edu/apply/|Dec. 15th|100+, ideally 22+ for spoken|no
 UIUC-MCS|   wl   |https://choose.illinois.edu/apply/|Dec. 15th|yes|no
 UCLA-MSCS|  rej   |https://apply.grad.ucla.edu/portal/landing|Dec. 15th|yes|no
 UCSD-CS75-M.S.|   ad   |https://connect.grad.ucsd.edu/apply/|Dec. 21st|yes|no
